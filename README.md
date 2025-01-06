@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django, VueJS**
 
-- 👨‍💻 All of my projects are available at [github.com/ademontel](github.com/ademontel)
+- 👨‍💻 All of my projects are available at [github.com/ademontel]([github.com/ademontel](https://github.com/ademontel?tab=repositories))
 
 - 💬 Ask me about **React, Python, Flask**
 
